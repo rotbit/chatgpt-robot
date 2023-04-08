@@ -1,4 +1,4 @@
-module chatgpt-api
+module chatgpt-robot
 
 go 1.18
 
